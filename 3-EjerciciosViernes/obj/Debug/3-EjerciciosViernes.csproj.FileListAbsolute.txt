@@ -1,0 +1,11 @@
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\bin\Debug\3-EjerciciosViernes.exe.config
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\bin\Debug\3-EjerciciosViernes.exe
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\bin\Debug\3-EjerciciosViernes.pdb
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\obj\Debug\3-EjerciciosViernes.csproj.AssemblyReference.cache
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\obj\Debug\3-EjerciciosViernes.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\obj\Debug\_3_EjerciciosViernes.Form1.resources
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\obj\Debug\_3_EjerciciosViernes.Properties.Resources.resources
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\obj\Debug\3-EjerciciosViernes.csproj.GenerateResource.cache
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\obj\Debug\3-EjerciciosViernes.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\obj\Debug\3-EjerciciosViernes.exe
+C:\Users\rodri\Source\Repos\3-EjerciciosViernes\3-EjerciciosViernes\obj\Debug\3-EjerciciosViernes.pdb
