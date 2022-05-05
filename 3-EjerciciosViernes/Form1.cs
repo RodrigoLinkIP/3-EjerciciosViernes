@@ -16,5 +16,34 @@ namespace _3_EjerciciosViernes
         {
             InitializeComponent();
         }
+        string p;
+        double precio;
+        bool esnumero;
+        private void button1_Click(object sender, EventArgs e)
+        {
+            p = textBox1.Text;
+            esnumero = double.TryParse(textBox1.Text, out precio);
+
+            if (!esnumero)
+            {
+                string nombre = "ERROR";
+                MessageBox.Show("Ingrese un caracter valido.", nombre);
+            }
+            if (precio > 0)
+            {
+                if (esnumero)
+                {
+                    double ganacia = precio * 0.30;
+                    double total = precio + ganacia;
+                    string nombre = "Aumento";
+                    MessageBox.Show("El precio original es de: $" + precio + "\nLa ganancia de este producto sera de: $" + ganacia + "\nEl precio de venta sera de: $" + total, nombre);
+                }
+            }
+            else if (precio <= 0)
+            {
+                string nombre = "ERROR";
+                MessageBox.Show("Ingrese un numero mayor a 0", nombre);
+            }
+        }
     }
 }
